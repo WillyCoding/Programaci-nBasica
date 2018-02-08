@@ -1,2 +1,2 @@
-# Programaci-nBasica
+# ProgramacionBasica
 Ejercicios de programación básicos 
